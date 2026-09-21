@@ -71,6 +71,10 @@ Low light → LDR senses darkness → LED ON
 5.Smart lighting systems
 
 6.Energy-saving lighting systems
+![image](tunnel_with_automative_switch_onoff_using_LDR_sensor_1.jpeg)
+![image](tunnel_with_automative_switch_onoff_using_LDR_sensor_2.jpeg)
+![image](tunnel_with_automative_switch_onoff_using_LDR_sensor_3.jpeg)
+
 
 **✅ Conclusion**
 
